@@ -1,2 +1,2 @@
 "hello everyone" 
-hii this is edited inside git
+hii this was edited inside git
